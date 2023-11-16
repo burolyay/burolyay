@@ -1,0 +1,25 @@
+/* Пример styles.css */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.header {
+    background-color: #3498db;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+.article {
+    margin-bottom: 20px;
+}
+
+/* Добавьте свои стили по необходимости */
